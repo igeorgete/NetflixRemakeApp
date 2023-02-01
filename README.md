@@ -7,6 +7,4 @@ Clone of the app on Netflix, without playing the movies. The backend is provided
 - Netflix API
 
 # Preview
-
-
-https://user-images.githubusercontent.com/84391647/216171764-14509ed8-0623-408b-8e1a-c2e5ba5f3589.mp4
+https://user-images.githubusercontent.com/84391647/216171923-bcd930f0-3e1f-4562-9c08-e99fa5752b32.mp4
