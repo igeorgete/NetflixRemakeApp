@@ -1,5 +1,5 @@
 # About
-Clone of Netflix app, without playing the movies. The backend is provided by an API that was made available by the teacher.
+Clone of Netflix app, without playing the movies. The backend is provided by an API that was made available by the teacher. Project developed for study purposes.
 
 # Technologies
 - Kotlin
